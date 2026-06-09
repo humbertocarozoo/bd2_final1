@@ -56,7 +56,7 @@ As 15 consultas abaixo foram criadas para explorar o banco de dados de forma nã
 ## 4. Vídeo de Demonstração
 O vídeo abaixo possui duração máxima de 1 minuto e demonstra a estrutura do banco rodando no SGBD, além da execução da consulta baseada em eras históricas (Consulta 08).
 
-👉 **[Link para o vídeo de demonstração]**
+👉 **[Link para o vídeo de demonstraçã](https://youtu.be/XI5TcQYpGrM)**
 
 ---
 
