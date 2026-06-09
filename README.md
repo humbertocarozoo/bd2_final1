@@ -3,7 +3,7 @@
 Este repositório contém o projeto final desenvolvido para a disciplina de **Banco de Dados 1**, do curso de Sistemas de Informação da Universidade Federal de Alagoas (UFAL).
 
 * **Aluno:** José Humberto Carozo dos Santos  
-* **Orientadora:** Profª Dra. Marianne Diniz  
+* **Professora:** Profª Dra. Marianne Diniz  
 
 ---
 
